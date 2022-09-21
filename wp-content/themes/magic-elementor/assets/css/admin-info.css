@@ -1,0 +1,46 @@
+.mgadin-hero {
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.mge-info-hello {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.mge-info-title {
+    font-size: 30px;
+    display: block;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.mge-info-desc {
+    font-size: 16px;
+    line-height: 1.3;
+    margin: 10px 0 20px;
+}
+
+.mge-info-actions a.button {
+    padding: 10px 30px;
+    font-size: 16px;
+}
+
+.mge-info-actions a.button {
+    display: inline-flex;
+    align-items: center;
+}
+
+.mge-info-actions a.button i {
+    margin-left: 15px;
+}
+.mge-info-image {
+    flex: 0 0 400px;
+    overflow: hidden;
+}
+
+.mge-info-image img {
+    max-width: 100%;
+    min-width: 200px;
+}
